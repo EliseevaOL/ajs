@@ -1,0 +1,19 @@
+{
+  "name": "@eliseevaol/ajs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EliseevaOL/ajs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EliseevaOL/ajs/issues"
+  },
+  "homepage": "https://github.com/EliseevaOL/ajs#readme",
+  "description": ""
+}
